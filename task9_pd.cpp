@@ -21,6 +21,6 @@ void tpChecker(int people,int tp)
 		cout << " Your TP will last " << lasting_days << " days, No need to panic! " << endl;
 	if(lasting_days<14)
 {
-	cout << " Your TP will only last " << lasting_days << " days, buy more! " << endl;
+		cout << " Your TP will only last " << lasting_days << " days, buy more! " << endl;
 }
 }
